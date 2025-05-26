@@ -316,7 +316,7 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 <div align="center">
   <p>ASEL NEVA Hukuk ve Arabuluculuk © 2024</p>
   <p>
-    <a href="https://www.aselaselnevahukuk.com">www.aselaselnevahukuk.com</a> • 
+    <a href="https://www.aselnevahukuk.com">www.aselaselnevahukuk.com</a> • 
     <a href="mailto:aselaselnevahukuk.com">aselnevahukuk@gmail.com</a> • 
     <a href="tel:+902121234567">+90 05519342030</a>
   </p>
